@@ -14,7 +14,7 @@ class _MyAppState extends State<MyApp> {
       title: "Easy Approch",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Easy Approch Home"),
+          title: Text("This is second commit"),
         ),
       ),
     );
